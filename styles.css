@@ -21,14 +21,12 @@ body {
   width: 100vw;
   align-items: center;
   justify-content: center;
-  /* background: purple; */
   background-image: url("./bgmoney.jpg");
   background-repeat: round;
 }
 
 .wrapper {
   width: 490px;
-  /* background: #fff; */
   background-image: linear-gradient(#fb8183, #a564b16b, #757774);
 
   padding: 30px;
