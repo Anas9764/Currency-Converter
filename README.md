@@ -1,3 +1,3 @@
 
-## Build currency converter Website by using HTML CSS and JavaScript
+## Create a currency converter website using HTML, CSS, and JavaScript.
 ![Output Image](./output.png)
